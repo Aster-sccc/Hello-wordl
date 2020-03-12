@@ -1,2 +1,14 @@
 # Hello-world
-test git
+//test git
+
+package main
+
+import (
+  "fmt"
+)
+
+
+func main() {
+  fmt.Println("Hello world!")
+}
+
